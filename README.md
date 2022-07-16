@@ -11,4 +11,4 @@ For now, this extension is only working in Chrome browser.
 - Stored URLs will be shown in the Extension pop-up. You can click on those links as well.
 - You can also delete all Links in the localstorage by clicking "Delete All" button.\
 
-Happy Coding!
+Happy Coding! 
